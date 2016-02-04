@@ -1,0 +1,11 @@
+{
+  "name"         : "node-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "server.js",
+  "author"       : "Elvis Saavedra",
+  "dependencies" : {
+    "request"    : "2.69.0",
+    "cheerio"    : "0.20.0"
+  }
+}
